@@ -1,0 +1,7 @@
+Cipher: Grosfeld, Action: Encrypt, Key: 123, Source: file
+Cipher: Grosfeld, Action: Encrypt, Key: 123, Source: file
+Cipher: Grosfeld, Action: Decrypt, Key: 123, Source: file
+Cipher: Grosfeld, Action: Encrypt, Key: 123, Source: manual
+Cipher: Grosfeld, Action: Decrypt, Key: 123, Source: file
+Cipher: Grosfeld, Action: Encrypt, Key: 123, Source: file
+Cipher: Grosfeld, Action: Decrypt, Key: 123, Source: file
